@@ -1,4 +1,4 @@
-# OFFICER MODE 2.0 — ARMAN KHAN
+# OFFICER MODE 2.0 — ARMAN KHAN 
 A mobile-first, local-first NDA 1 2027 study PWA.
 
 ## Files
